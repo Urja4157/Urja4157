@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Urja 👋
 
-<!--
-**Urja4157/Urja4157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer working with ASP.NET Core, C#, and PostgreSQL.
 
-Here are some ideas to get you started:
+Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- CQRS
+- Event-Driven Architecture
+- Distributed Systems
+
+## Featured Project
+
+### Rental Management System
+
+Built using:
+
+- Clean Architecture
+- DDD
+- CQRS with MediatR
+- Multi-Tenancy
+- JWT Authentication
+- PostgreSQL
+- Reporting & PDF Generation
+
+Currently learning Kafka, integration testing, and distributed system patterns.
