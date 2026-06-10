@@ -1,27 +1,29 @@
 # Hi, I'm Urja 👋
 
-Backend developer working with ASP.NET Core, C#, and PostgreSQL.
+Backend developer focused on building applications with ASP.NET Core, PostgreSQL, and modern software architecture practices.
 
-Interested in:
+## Interests
 
-- Domain-Driven Design (DDD)
-- Clean Architecture
-- CQRS
-- Event-Driven Architecture
-- Distributed Systems
+* Domain-Driven Design (DDD)
+* Clean Architecture
+* CQRS
+* Event-Driven Architecture
+* Distributed Systems
+* Backend Performance & Scalability
 
-## Featured Project
+## Tech Stack
 
-### Rental Management System
+**Backend:** C#, ASP.NET Core, Entity Framework Core, MediatR
 
-Built using:
+**Database:** PostgreSQL, SQL Server
 
-- Clean Architecture
-- DDD
-- CQRS with MediatR
-- Multi-Tenancy
-- JWT Authentication
-- PostgreSQL
-- Reporting & PDF Generation
+**Architecture:** DDD, Clean Architecture, CQRS
 
-Currently learning Kafka, integration testing, and distributed system patterns.
+**Tools:** Git, GitHub, Docker, Swagger
+
+## Currently Learning
+
+* Integration Testing
+* Kafka
+* Outbox Pattern
+* Distributed System Design
